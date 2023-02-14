@@ -1,0 +1,43 @@
+body, html{
+    height: 100%;
+    margin: 0px;
+}
+
+nav li{
+    display: inline;
+    margin: 30px;
+}
+
+nav ul{
+    background-color: blue;
+    margin: 0;
+    list-style-type: none;
+    width: 100%;
+    padding: 20px;
+}
+nav{
+    display: block;
+    color:white;
+}
+
+nav a{
+    color: #555;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: white;
+}
+.hero-image{
+    background-image: url("../images/CCADDD77-5935-4C05-9810-A2A99181A3AA_1_105_c.jpeg");
+    height: 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+img{
+    height: 20%;
+
+}
+
